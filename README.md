@@ -4,7 +4,7 @@ This is project was bootstrapped with [Create React App](https://github.com/face
 
 ## Available Scripts
 
-ttestIn the project directory, you can run:
+tteddstIn the project directory, you can run:
 
 ### `npm start`
 
